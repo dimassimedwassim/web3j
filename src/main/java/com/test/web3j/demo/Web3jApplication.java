@@ -10,4 +10,5 @@ public class Web3jApplication {
 		SpringApplication.run(Web3jApplication.class, args);
 	}
 
+
 }
